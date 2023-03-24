@@ -3,4 +3,4 @@ print(sum(set(list_)))
 print(len(set(list_)))
 arith_mean = sum(set(list_)) / len(set(list_))
 print(round(arith_mean, 5))
-# TODO найти сумму, количество и среднее арифметическое уникальных чисел
+
