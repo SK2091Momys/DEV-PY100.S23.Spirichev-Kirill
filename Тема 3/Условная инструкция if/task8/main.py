@@ -1,4 +1,6 @@
 number = 12
 
-if ...:  # TODO Заменить многоточие необходимым условием
-    print('Число number кратно 2 или 3')
+if number // 2:
+    if number // 3:
+        print("Число number кратно 2 или 3")
+
